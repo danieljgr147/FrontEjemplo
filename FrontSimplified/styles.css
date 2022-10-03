@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    display: inline;
+    float: right;
+}
+
+
+
+.menu{
+    display: inline;
+    width: 30px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    padding: 15px;
+    color: black;
+}
+nav{
+    background-color: #d0fcfc;
+    padding: 30px;
+}
+
+
+header{
+    background-color: #f0dcfc;
+    height: 1050px;
+}
+
+#laptop {
+    float: right;
+    background-color: #f0dcfc;
+    margin-top: -530px;
+    margin-right: 100px;
+    width: 800px;
+}
+
+#principal {
+    padding-top: 200px;
+}
+
+.titulo{
+    font-size: 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: bold;
+    margin: 200px;
+    
+    
+}
+
+#parrafohead1 {
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: bold;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+#parrafohead2 {
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: bold;
+    margin-left: 200px;   
+}
+
+#start {
+    margin: 200px;
+    margin-top: 20px;
+    width: 300px;
+    height: 70px;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    background-color: rgba(0, 202, 202, 0.664);
+    color: white;
+    border-color: transparent;  
+}
+
+#pag2-1{
+    font-size: 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    padding-left: 900px;   
+    font-weight: lighter;
+    padding-bottom: 30px;
+    
+}
+
+#pag2-2{
+    font-size: 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    padding-left: 900px;   
+    font-weight: lighter;
+    padding-bottom: 30px;   
+    
+}
+
+#sabout{
+    background-color: #f8fcdc;
+    padding-bottom: 80px;
+}
+
+#sdiscord{
+    background-color: #d0fcfc;
+    padding-bottom: 80px;
+}
+#parrafo1P2 {
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: bold;
+    margin-left: 350px; 
+    background-color: #f8fcdc;
+    
+
+}
+#parrafo2P2 {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: bold;
+    margin-left: 1100px; 
+    background-color: #d0fcfc;
+    
+
+}
+
+#laptop2 {
+    float: right;
+    background-color: #f0dcfc;
+    margin-top: -300px;
+    margin-right: 400px;
+    width: 550px;
+}
+
+#discord {
+    float: left;
+    background-color: #f0dcfc;
+    margin-top: -50px;
+    margin-left: 450px;
+    width: 400px;
+}
+
+#contact {
+    background-color: #e0ecfc;
+    padding-bottom: 80px;
+    
+}
+
+.form {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: lighter;
+    margin-left: 700px; 
+    background-color: #ffffff;
+    width: 700px;
+    margin-top: 15px;
+    padding: 10px;
+}
+
+#submitbtn{
+    width: 200px;
+    color: white;
+    background-color: rgb(40, 197, 197);
+    font-weight: bold;
+    border-color: transparent;
+}
+
+#titulocontacto {
+
+    font-size: 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: lighter;
+    margin-left: 870px; 
+}
+
+footer {
+background-color: #b0f4fc;
+height: 400px;
+} 
+
+#footerimg{
+padding-left: 770px;
+height: 100px;
+}
+
+#footerdiv{
+    padding-left: 640px;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    margin-right: 100px;
+    padding-top: 20px;
+    color: rgb(47, 47, 255);
+    font-weight: bold;
+}
+
+#copy{
+    padding-left: 900px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    margin-right: 100px;
+    padding-top: 70px;
+    color: black;
+    font-weight: lighter;
+}
